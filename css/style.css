@@ -1,8 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap");
 
-body {
+.wrapper {
   background-color: #2f3640;
-  color: whitesmoke;
 }
 
 .title,
